@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "silly-datetime": "^0.1.2",
+    "socket.io": "^2.0.4"
+  }
+}
